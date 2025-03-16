@@ -1,0 +1,2 @@
+# autorename_file_name_with_path_Obsidian_Templater
+ 
