@@ -13,3 +13,4 @@ const currentTitle = tp.file.title;
 const newTitle = `${currentTitle} (${folderPathSanitized})`;
 await tp.file.rename(newTitle);
 %>
+
